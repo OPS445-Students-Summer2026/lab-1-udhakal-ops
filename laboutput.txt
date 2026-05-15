@@ -3,7 +3,7 @@ OPS445 Lab Report - System Information for running ./CheckLab1.py
 =================================================================
     User login name: udhakal
     Git Email: 
-    Linux system name: mtrx-node01pd.dcm.senecacollege.ca
+    Linux system name: mtrx-node06pd.dcm.senecacollege.ca
     Python executable: /usr/bin/python3
     Python version:  3.6.8 (default, Nov 14 2023, 16:29:52) 
 [GCC 4.8.5 20150623 (Red Hat 4.8.5-44)]
